@@ -1,4 +1,1 @@
-# Paralax
-<p align="center">
-    <img alt="Readme" src=".github/#1.gif"
-</p>
+![PALLAX](https://github.com/johnxMartins/Paralax/blob/johnminatow/prints/%231.gif)
