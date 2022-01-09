@@ -1,4 +1,4 @@
 # Paralax
 <p align="center">
-    <img width="460" height="300" src="src/README.md/prints/#1.gif"
+    <img alt="Readme" src=".github/#1.gif"
 </p>
